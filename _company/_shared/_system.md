@@ -8,6 +8,7 @@
   - `identity.md` — 회사 정체성 (이름, 톤, 가치)
   - `goals.md` — 목표
   - `decisions.md` — 의사결정 로그 (자가학습이 자동 누적)
+  - `output_constraints.md` — 시스템 출력 제약 조건 (JSON 강제 등)
   - `_system.md` — 이 파일
 - `_agents/<id>/` — 각 에이전트 개인 공간
   - `memory.md` — 자가학습 (자동, append-only)
@@ -18,10 +19,11 @@
 
 ## 메모리 위계 (충돌 시 우선순위)
 1. `decisions.md` — 가장 강한 신뢰
-2. `identity.md`
-3. `goals.md`
-4. 개인 메모리
-5. 지식 베이스 (`10_Wiki/`)
+2. `output_constraints.md` — 출력 형식 및 기술 제약 (최우선 준수)
+3. `identity.md`
+4. `goals.md`
+5. 개인 메모리
+6. 지식 베이스 (`10_Wiki/`)
 
 ## 다른 PC로 옮길 때
 1. 새 PC에 Connect AI 설치
