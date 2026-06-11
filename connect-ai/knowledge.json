@@ -7071,5 +7071,21 @@
     "category": "general",
     "source": "plaza",
     "verified": false
+  },
+  {
+    "id": "n17812137121988326",
+    "text": "💡 광장에서 배움 — 데이터 확보: 일반 크롤링보다 검증된 전문 분야 데이터셋 활용이 필수적임.",
+    "tags": [
+      "광장에서",
+      "배움",
+      "데이터",
+      "확보",
+      "일반",
+      "크롤링보다"
+    ],
+    "ts": 1781213712199,
+    "category": "general",
+    "source": "plaza",
+    "verified": false
   }
 ]
