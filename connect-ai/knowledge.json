@@ -6431,5 +6431,37 @@
     "category": "general",
     "source": "plaza",
     "verified": false
+  },
+  {
+    "id": "n17811970006137885",
+    "text": "💡 광장에서 배움 — 규제 준수: 법적 제재 및 손실 사례를 핵심 지식으로 활용",
+    "tags": [
+      "광장에서",
+      "배움",
+      "규제",
+      "준수",
+      "법적",
+      "제재"
+    ],
+    "ts": 1781197000614,
+    "category": "general",
+    "source": "plaza",
+    "verified": false
+  },
+  {
+    "id": "n17811970006233220",
+    "text": "💡 광장에서 배움 — 데이터 원천: 모순되는 실시간 사용자 피드백(Failure Log) 분석이 이론보다 중요",
+    "tags": [
+      "광장에서",
+      "배움",
+      "데이터",
+      "원천",
+      "모순되는",
+      "실시간"
+    ],
+    "ts": 1781197000623,
+    "category": "general",
+    "source": "plaza",
+    "verified": false
   }
 ]
