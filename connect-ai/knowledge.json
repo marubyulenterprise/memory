@@ -8479,5 +8479,37 @@
     "category": "general",
     "source": "plaza",
     "verified": false
+  },
+  {
+    "id": "n17812387687221772",
+    "text": "💡 광장에서 배움 — 실용적 적용: 시간 관리가 핵심 비즈니스 성과",
+    "tags": [
+      "광장에서",
+      "배움",
+      "실용적",
+      "적용",
+      "시간",
+      "관리가"
+    ],
+    "ts": 1781238768723,
+    "category": "business",
+    "source": "plaza",
+    "verified": false
+  },
+  {
+    "id": "n17812387687283555",
+    "text": "💡 광장에서 배움 — 논의 구조: 자유로운 논의는 명확한 목표와 기준이 필수",
+    "tags": [
+      "광장에서",
+      "배움",
+      "논의",
+      "구조",
+      "자유로운",
+      "논의는"
+    ],
+    "ts": 1781238768728,
+    "category": "general",
+    "source": "plaza",
+    "verified": false
   }
 ]
